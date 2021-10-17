@@ -1,2 +1,2 @@
-# Carmax-Pirating
-Stealing hella data
+# Carmax-Price-Prediction
+Scraping Carmax's website and attempting to visualize correlations.
